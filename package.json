@@ -1,0 +1,23 @@
+{
+  "name": "profisc-niger",
+  "version": "1.0.0",
+  "description": "PROFISC NIGER",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PROFISC-NIGER/PROFISC-NIGER.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PROFISC-NIGER/PROFISC-NIGER/issues"
+  },
+  "homepage": "https://github.com/PROFISC-NIGER/PROFISC-NIGER#readme",
+  "dependencies": {
+    "isomorphic-unfetch": "^4.0.2"
+  }
+}

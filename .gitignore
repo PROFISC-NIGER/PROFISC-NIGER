@@ -1,0 +1,50 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Dossiers générés
+node_modules/
+vendor/
+
+# Fichiers de dépendances et de compilation
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+composer.lock
+
+# Environnements
+.env
+.env.local
+.env.*.local
+
+# Fichiers de sauvegarde
+*.bak
+*.swp
+*~
+._*
+
+# Fichiers de configuration d'IDE
+.idea/
+.vscode/
+
+# Fichiers de logs
+log/
+logs/
+
+# Fichiers de sortie d'applications
+dist/
+build/
+
+# Cache
+.cache/
+.cached/
+
+# Fichiers sensibles
+config.php
+secrets.yml
+
+# Autres
+*.log
+*.zip
+*.rar
